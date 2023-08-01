@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Micro_Mouse/static/css/main.4064710e.chunk.css",
+    "main.js": "/Micro_Mouse/static/js/main.0f116b66.chunk.js",
+    "main.js.map": "/Micro_Mouse/static/js/main.0f116b66.chunk.js.map",
+    "runtime-main.js": "/Micro_Mouse/static/js/runtime-main.5fa574c5.js",
+    "runtime-main.js.map": "/Micro_Mouse/static/js/runtime-main.5fa574c5.js.map",
+    "static/js/2.f0583ba6.chunk.js": "/Micro_Mouse/static/js/2.f0583ba6.chunk.js",
+    "static/js/2.f0583ba6.chunk.js.map": "/Micro_Mouse/static/js/2.f0583ba6.chunk.js.map",
+    "index.html": "/Micro_Mouse/index.html",
+    "precache-manifest.51f4fc6d05126001879aa4bf5446d787.js": "/Micro_Mouse/precache-manifest.51f4fc6d05126001879aa4bf5446d787.js",
+    "service-worker.js": "/Micro_Mouse/service-worker.js",
+    "static/css/main.4064710e.chunk.css.map": "/Micro_Mouse/static/css/main.4064710e.chunk.css.map"
+  }
+}
